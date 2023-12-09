@@ -17,3 +17,15 @@ This notebook includes results from the 2019 NFL player combine.
 * Shuttle
 * 3 Cone
 * 69 Yard Shuttle
+
+## Context
+
+This dataset includes the results of the 2019 NFL Combine.
+
+## Content
+
+The data was extracted from nflcombineresults.com with Excel
+
+## Acknowledgements
+
+nflcombineresults.com
