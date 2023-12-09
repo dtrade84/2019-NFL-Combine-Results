@@ -2,7 +2,7 @@
 
 This notebook includes results from the 2019 NFL player combine.
 
-* PLayer Name
+* Payer Name
 * College
 * Position
 * Height(in)
